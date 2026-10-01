@@ -5,3 +5,5 @@
 **[UNOFFICIAL]** Unofficial community port of Ripples of the Past to Minecraft 1.20.1 (Forge). Not affiliated with or supported by the original author.
 
 **非官方移植**：本仓库是 Ripples of the Past 面向 Minecraft 1.20.1 的非官方移植版本，与原作者无关，请勿向原项目反馈本构建的问题。
+
+**本项目在特定条件下存在严重问题**：本仓库的移植工作尚未完成，如果将本模组安装到游戏中，可能导致不明的严重后果
